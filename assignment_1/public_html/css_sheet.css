@@ -1,0 +1,32 @@
+body {
+	background: #f2f2f2;
+}
+
+header {
+	background-color: #BF0A3A;
+}
+
+nav li {
+	float: left;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: grey;
+	font-family: arial, sans-serif;
+}
+
+nav li a {
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+nav li a:hover {
+	background-color: lightgrey;
+}
